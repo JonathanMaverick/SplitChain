@@ -2,6 +2,10 @@
 
 ![Split Chain](https://cdn.discordapp.com/attachments/874212623070162965/1402598522099994644/Split_Chain_upscaled.png?ex=68947f2a&is=68932daa&hm=3c39d29d5158296a135d24f1ddde843dc07a42768baa3f22330ff381b9cf4ebd& 'Split Chain')
 
+### Repository
+- [SplitChain Frontend](https://github.com/JonathanMaverick/split-chain-frontend)
+- [SplitChain Backend](https://github.com/JZ23-2/split-chain-backend)
+
 ## Problem
 
 Splitting bills with friends after meals or group purchases is still unnecessarily tedious:
