@@ -1,8 +1,9 @@
 # Split Chain
 
 ![Split Chain](assets/SplitChain.gif)
-  
+
 ### Repository
+
 - [SplitChain Frontend](https://github.com/JonathanMaverick/split-chain-frontend)
 - [SplitChain Backend](https://github.com/JZ23-2/split-chain-backend)
 
@@ -44,7 +45,6 @@ To promote ease of use, Split Chain `charges a small administrative fee` that is
 ## Unique Selling Proposition
 
 Split Chain bridges the gap between real-world expenses and decentralized finance by combining smart receipt scanning, live currency conversion, and instant crypto payments — all in a single, seamless user flow. Unlike traditional split bill apps or general-purpose crypto wallets, Split Chain is tailored for collaborative, item-level splitting and HBAR-native payments with real-time notifications and transparency.
-
 
 ![Split Chain Preview](https://rcxelnfhvbqszzccltry.supabase.co/storage/v1/object/sign/logo/SplitChain.gif?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MDYxNWEyMi0yMDRlLTQzYzMtYjgwNy1lYTllZGI1YjgzMTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsb2dvL1NwbGl0Q2hhaW4uZ2lmIiwiaWF0IjoxNzU0NDgwMTY4LCJleHAiOjE4NDkwODgxNjh9.UB4tRnH6QRBSE4RKgGaeq6GXEfwwiYKAx7Qq3M6IBL0)
 
